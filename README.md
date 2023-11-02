@@ -1,4 +1,4 @@
-# VeraDemo - Blab-a-Gag - First change - Trigger scans
+# VeraDemo - Blab-a-Gag - First change
 
 ### :information_source: Notice
 
